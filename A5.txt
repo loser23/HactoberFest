@@ -1,0 +1,1 @@
+We will use real mode in this case beacuse system having ram less than 1 mb prefers to use 16 bit mode.
